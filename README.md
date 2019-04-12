@@ -2,7 +2,7 @@
 
 #### 介绍
 用于存放文档图片
-
+![](https://github.com/aa1000777/Document-Image/blob/master/Google%20Cloud%20%E6%90%AD%E5%BB%BAShadowsocks%20go%E6%9C%8D%E5%8A%A1%E6%95%99%E7%A8%8B/GCP1.jpg)
 #### 软件架构
 软件架构说明
 
